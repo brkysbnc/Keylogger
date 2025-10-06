@@ -119,6 +119,7 @@ Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için lisans gere
 
 - GitHub: [@brkysbnc](https://github.com/brkysbnc)
 - Proje Linki: [https://github.com/brkysbnc/Keylogger](https://github.com/brkysbnc/Keylogger)
+- Youtube linki : (https://youtu.be/KaXvU_fEQj4)
 
 ## ⚖️ Yasal Uyarı
 
